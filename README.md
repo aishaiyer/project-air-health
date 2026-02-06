@@ -24,7 +24,7 @@ All datasets are publicly available. No individual-level or protected health inf
 ---
 
 ## Methods
-- **Exposure aggregation:** PM₂.₅ aggregated to county-level time series (monthly or annual), with lagged exposure windows.
+- **Exposure aggregation:** PM2.5 aggregated to county-level time series (monthly or annual), with lagged exposure windows.
 - **Baseline statistics:** Generalized Linear Models (GLM) using `statsmodels`, with robust standard errors and confidence intervals.
 - **ML baselines:** Regularized regression and tree-based models (Random Forest; optional gradient-boosted trees).
 - **Uncertainty handling:** Confidence intervals for effect estimates; bootstrap uncertainty for model metrics.
