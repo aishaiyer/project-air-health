@@ -1,7 +1,7 @@
 # Air Quality Assessment for Health Modeling (DMV)
 
 ## Overview
-This project investigates how short-term exposure to fine particulate matter (PM₂.₅) relates to population-level health outcomes in the Washington, DC–Baltimore (DMV) region. Building on an exposure modeling pipeline developed in Project 1, we aggregate environmental exposures and evaluate associations with county-level health indicators using interpretable statistical models and machine-learning baselines.
+This project investigates how short-term exposure to fine particulate matter (PM2.5) relates to population-level health outcomes in the Washington, DC–Baltimore (DMV) region. Building on an exposure modeling pipeline developed in Project 1, we aggregate environmental exposures and evaluate associations with county-level health indicators using interpretable statistical models and machine-learning baselines.
 
 The goal is not causal attribution, but to demonstrate rigorous, transparent applied ML practices for environmental health data, including time-aware aggregation, uncertainty-aware modeling, and clear interpretation of results.
 
@@ -10,12 +10,12 @@ The goal is not causal attribution, but to demonstrate rigorous, transparent app
 ## Scientific Questions
 1. Do higher PM₂.₅ exposure levels associate with higher respiratory or cardiovascular health burden at the county level?
 2. Do lagged exposure windows (e.g., recent multi-day or monthly averages) improve explanatory power?
-3. Which features (PM₂.₅ exposure, meteorology, seasonality) dominate model behavior, and with what uncertainty?
+3. Which features (PM2.5 exposure, meteorology, seasonality) dominate model behavior, and with what uncertainty?
 
 ---
 
 ## Data Sources
-- **Air Quality:** EPA Air Quality System (AQS) PM₂.₅ (daily, site-level)
+- **Air Quality:** EPA Air Quality System (AQS) PM2.5 (daily, site-level)
 - **Meteorology:** NOAA ISD / surface meteorological observations
 - **Health Outcomes:** CDC PLACES (county-level prevalence indicators)
 
