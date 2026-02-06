@@ -8,7 +8,7 @@ The goal is not causal attribution, but to demonstrate rigorous, transparent app
 ---
 
 ## Scientific Questions
-1. Do higher PM₂.₅ exposure levels associate with higher respiratory or cardiovascular health burden at the county level?
+1. Do higher PM2.5 exposure levels associate with higher respiratory or cardiovascular health burden at the county level?
 2. Do lagged exposure windows (e.g., recent multi-day or monthly averages) improve explanatory power?
 3. Which features (PM2.5 exposure, meteorology, seasonality) dominate model behavior, and with what uncertainty?
 
