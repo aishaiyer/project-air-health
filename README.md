@@ -43,16 +43,6 @@ All datasets are publicly available. No individual-level or protected health inf
 
 All data used in this project are publicly available from the U.S. EPA, NOAA, and CDC; see `reports/data_sources.md` for full attribution and provenance details.
 
-
----
-
-## Status
-- **In progress**
-- Phase 2A (CDC PLACES) is the core analysis
-- CMS and CDC WONDER are optional extensions
-
----
-
 ## Notes on Interpretation
 Results reflect associations in aggregated, population-level data. They are intended for methodological demonstration and hypothesis generation, not causal inference or clinical decision-making.
 
