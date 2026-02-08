@@ -50,3 +50,5 @@ This repository uses publicly available, non-identifiable environmental and popu
   Output: `data/processed/pm25_county_monthly_dmv.csv`
 
 If additional datasets are added (e.g., CMS hospitalizations or CDC WONDER mortality), this file should be updated with corresponding citations and links.
+This project is intended for educational and research demonstration purposes and does not constitute public health guidance.
+
