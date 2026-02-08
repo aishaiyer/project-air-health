@@ -42,6 +42,7 @@ All datasets are publicly available. No individual-level or protected health inf
 - `reports/`: short summaries, notes, and documentation  
 
 All data used in this project are publicly available from the U.S. EPA, NOAA, and CDC; see `reports/data_sources.md` for full attribution and provenance details.
+Health outcome data are sourced from the CDC PLACES project; see reports/data_sources.md for full attribution.
 
 ## Notes on Interpretation
 Results reflect associations in aggregated, population-level data. They are intended for methodological demonstration and hypothesis generation, not causal inference or clinical decision-making.
